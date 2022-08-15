@@ -15,5 +15,4 @@
 
 ## DEMO
 
-![](https://raw.githubusercontent.com/Z0rch3r/MessageBoxA-Hooking/main/hook.gif?token=GHSAT0AAAAAABVQVPFRX5HRKUHGUAE7VMTAYXZTJJQ)
-
+![hook](https://user-images.githubusercontent.com/52085661/184562205-32f7542c-9e6d-41e1-94f5-4b19fc22a806.gif)
