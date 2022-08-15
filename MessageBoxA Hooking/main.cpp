@@ -1,12 +1,17 @@
-#include "resources.h"
+#include "resource.hpp"
+
 
 
 int main(void) {
-	MessageBoxA(NULL, "Hello World", "Error!", MB_OK);
+    // Obj Creation
+    Hooking HK;
+    
+    // Testing If The Function Hooked Successfully
+    HK.MessageBoxA(NULL, "Hello World", "Error!", MB_OK);
+    
+    // puting the hook
+    HK.PutTheFuckingHook();
 
-	PutTheHook();
-
-	MessageBoxA(NULL, "Hello World", "Error!", MB_OK);
-
-	return 0;
+    // Testing If The Function Hooked Successfully
+    HK.MessageBoxA(NULL, "hi", "hi", MB_OK);
 }
