@@ -18,4 +18,4 @@
 ![hook](https://user-images.githubusercontent.com/52085661/184562205-32f7542c-9e6d-41e1-94f5-4b19fc22a806.gif)
 
 ## Credits
-> This project has been made by me and ![Zorcher](https://github.com/ZorcherEx)
+> This project has been made by me and ![Zorcher](https://github.com/Omorreg)
